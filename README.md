@@ -1,0 +1,1 @@
+# Implementing-Pseudocoloring-using-MATLAB-GUI-and-Intensity-Slicing-technique.
